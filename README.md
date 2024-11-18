@@ -1,7 +1,3 @@
-Dưới đây là bản cập nhật quay lại như trước, với các phần phân cách bằng GIF mà bạn yêu cầu. Tôi đã bỏ qua các thay đổi trước đó và giữ lại cấu trúc ban đầu.
-
----
-
 # 👋 Hello World, I'm Joe (HoangLH)!
 
 ![Header](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
@@ -69,7 +65,3 @@ Dưới đây là bản cập nhật quay lại như trước, với các phần
 
 ## 🖤 Fun Quote
 *"Being handsome is hard work, but someone has to do it."* 😎
-
----
-
-Nếu bạn muốn thêm hoặc thay đổi gì, đừng ngần ngại yêu cầu nhé!
