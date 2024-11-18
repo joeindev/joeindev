@@ -1,5 +1,13 @@
+Dưới đây là bản cập nhật quay lại như trước, với các phần phân cách bằng GIF mà bạn yêu cầu. Tôi đã bỏ qua các thay đổi trước đó và giữ lại cấu trúc ban đầu.
+
+---
+
 # 👋 Hello World, I'm Joe (HoangLH)!
+
 ![Header](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+---
+
 ## 🚀 About Me
 - 🔭 Currently learning: **Python**, **C#**, **C++**, **Java**, **Node.js**  
 - 🎨 Exploring: Blender (Intermediate level 🚀)  
@@ -7,12 +15,16 @@
 - 🧠 IQ: 116 (Definitely *not* Einstein level!)  
 - 😎 Handsome: **True** (10/10, trust me!)  
 - 💖 Girlfriend: **False** (*Forever Alone Club President 😢*)  
+
 ---
+
 ## ⚡ Fun Facts
 - 😂 Humor: **0** (You’ll have to handle the jokes!)  
 - 🌟 Intelligence: **False** (But hey, I try!)  
 - 💡 EQ: **70** (Working on it... slowly!)  
+
 ---
+
 ## 💻 Technologies & Tools
 - 🔧 Languages:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -23,31 +35,41 @@
 
 - 🎨 Blender:  
   ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
+
 ---
+
 ## 📫 Contact Me
 - ✉️ Email: **hle816412@gmail.com**  
 - 💬 Discord: **[joe.fun](https://discord.com/users/914708988388593734)**  
 - 📂 [Portfolio/Website](#) *(Coming Soon!)*  
+
 ---
+
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-trophies.vercel.app/?username=joeindev)
+
 ---
+
+![GIF Separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 ## 📈 User Statistics
 
-- **GitHub Streak**  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joeindev)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joeindev)
 
-- **Profile Details**  
-  ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joeindev)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joeindev)
 
-- **Most Commit Languages**  
-  ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joeindev)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joeindev)
 
-- **GitHub Stats**  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joeindev)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joeindev)
 
-- **Productive Time**  
-  ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joeindev)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joeindev)
+
+---
+
 ## 🖤 Fun Quote
 *"Being handsome is hard work, but someone has to do it."* 😎
+
+---
+
+Nếu bạn muốn thêm hoặc thay đổi gì, đừng ngần ngại yêu cầu nhé!
