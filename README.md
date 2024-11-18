@@ -35,8 +35,8 @@
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: **your_email@example.com**  
-- 💬 Discord: **your_discord_handle**  
+- ✉️ Email: **hle816412@gmail.com**  
+- 💬 Discord: **[joe.fun](https://discord.com/users/914708988388593734)**  
 - 📂 [Portfolio/Website](#) *(Coming Soon!)*  
 
 ---
