@@ -60,8 +60,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joeindev)
 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joeindev)
-
----
-
-## 🖤 Fun Quote
-*"Being handsome is hard work, but someone has to do it."* 😎
