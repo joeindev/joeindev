@@ -57,6 +57,6 @@
 
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joeindev)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joeindev)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=joeindev](https://github-trophies.vercel.app/?username=joeindev))
 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joeindev)
