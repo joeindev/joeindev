@@ -6,18 +6,18 @@
 
 ## 🚀 About Me
 - 🔭 Currently learning: **Python**, **C#**, **C++**, **Java**, **Node.js**  
-- 🎨 Exploring: Blender (Intermediate level 🚀)  
-- 🍳 Life skills: Cooking (6/10, but I won't burn your kitchen!)  
-- 🧠 IQ: 116 (Definitely *not* Einstein level!)  
-- 😎 Handsome: **True** (10/10, trust me!)  
+- 🎨 Exploring: Blender 
+- 🍳 Life skills: Cooking (6/10
+- 🧠 IQ: 116
+- 😎 Handsome: **True**
 - 💖 Girlfriend: **False** (*Forever Alone Club President 😢*)  
 
 ---
 
 ## ⚡ Fun Facts
-- 😂 Humor: **0** (You’ll have to handle the jokes!)  
-- 🌟 Intelligence: **False** (But hey, I try!)  
-- 💡 EQ: **70** (Working on it... slowly!)  
+- 😂 Humor: **0**
+- 🌟 Intelligence: **False** 
+- 💡 EQ: **70** 
 
 ---
 
