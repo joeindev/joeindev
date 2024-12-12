@@ -42,7 +42,7 @@ public class Joe {
 <h2 align="center">⚙️ My Skills</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,nodejs,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,php,nodejs,html,css,js,react,vue,tailwind,vscode,github" />
 </div>
 
 <div align="center">
