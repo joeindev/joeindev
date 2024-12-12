@@ -51,12 +51,12 @@
 
 ## 📈 User Statistics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joeindev)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joeindev)](https://github-readme-streak-stats.herokuapp.com/?user=joeindev)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joeindev)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joeindev)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joeindev)
 
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joeindev)
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joeindev)](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joeindev)
 
-[https://github-readme-stats.vercel.app/api?username=joeindev](https://github-trophies.vercel.app/?username=joeindev))
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joeindev)
+[[https://github-readme-stats.vercel.app/api?username=joeindev](https://github-trophies.vercel.app/?username=joeindev))
+](https://github-trophies.vercel.app/?username=joeindev)
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joeindev)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joeindev)
